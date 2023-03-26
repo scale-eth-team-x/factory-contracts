@@ -12,6 +12,10 @@ const config: HardhatUserConfig = {
     goerli: {
       url: `https://eth-goerli.g.alchemy.com/v2/${ALCHEMY_API_KEY}`,
       accounts: [GOERLI_PRIVATE_KEY]
+    },
+    scroll: {
+      url: `https://alpha-rpc.scroll.io/l2`,
+      accounts: [GOERLI_PRIVATE_KEY]
     }
   }
 };
