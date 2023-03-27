@@ -4,6 +4,8 @@
 
 **zkSync**: FactoryAggregator deployed at 0x366963624505f9a2F159cc140F58D35cA58cdc0f
 
+**Polygon zkEVM**: FactoryAggregator deployed at 0x82a0e7fD036335ec5c2c37f5Caed7345AB301f93
+
 **Gnosis**: FactoryAggregator deployed at 0x094ed508CDCd1810ecdc96998642a3AC7dD7BC9a
 
 **Optimism**: FactoryAggregator deployed at0x70A6F6F1Ab51716FaFFB68C0E3A6f0BA78a56af0
